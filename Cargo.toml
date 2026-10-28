@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-archlinux-themes-slim"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS archlinux-themes-slim component (Arch Linux inspired)"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_archlinux-themes-slim"
+path = "src/lib.rs"
